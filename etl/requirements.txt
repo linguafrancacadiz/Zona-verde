@@ -1,0 +1,5 @@
+# El núcleo del ETL (geometría, normalización, construcción, validación) no
+# necesita nada: se ejecuta con la biblioteca estándar de Python 3.11+.
+# Estas dependencias sólo hacen falta para extraer el anexo de un PDF.
+
+pdfplumber>=0.11

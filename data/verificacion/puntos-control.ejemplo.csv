@@ -1,0 +1,4 @@
+lon,lat,precision_m,tipo_esperado,nota
+-6.2970,36.5301,6,verde,EJEMPLO — sustituir por tomas reales con GPS
+-6.2965,36.5312,8,azul,EJEMPLO — punto de control en zona azul contigua
+-6.2951,36.5288,5,ninguna,EJEMPLO — calle sin regulación

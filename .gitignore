@@ -1,0 +1,23 @@
+# Descargas voluminosas de fuentes externas (CDAU, OSM, CartoCiudad)
+data/fuentes/*
+!data/fuentes/.gitkeep
+
+# Caché de geocodificación generada automáticamente
+data/cache/*
+!data/cache/.gitkeep
+
+# Salidas intermedias del ETL
+data/tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# QGIS
+*.qgs~
+*.qgz~
+
+# Sistema
+.DS_Store
