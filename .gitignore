@@ -2,6 +2,11 @@
 data/fuentes/*
 !data/fuentes/.gitkeep
 
+# Justificantes y acuses originales: contienen NIE, domicilio y teléfono.
+# NUNCA se suben — este repositorio es público.
+data/registro/*
+!data/registro/.gitkeep
+
 # Caché de geocodificación generada automáticamente
 data/cache/*
 !data/cache/.gitkeep

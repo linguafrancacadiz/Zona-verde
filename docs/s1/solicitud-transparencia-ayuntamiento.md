@@ -1,17 +1,17 @@
 # Solicitud de acceso a la información pública — Ayuntamiento de Cádiz
 
-> **Antes de registrar, completar:** `[DNI]`, `[DOMICILIO]` y recalcular la fecha
-> límite (un mes natural desde el registro efectivo). El texto de abajo asume un
-> registro el 23 de agosto de 2026, de donde sale el 23 de septiembre de 2026.
+> **REGISTRADA el 25/08/2026 a las 19:29** en el registro electrónico de la
+> Administración General del Estado, con destino al Ayuntamiento de Cádiz
+> (L01110125). Justificante y cómputo del plazo en
+> [`justificantes/2026-08-25-ayuntamiento.md`](justificantes/2026-08-25-ayuntamiento.md).
 >
-> **Dónde:** Registro Electrónico General del Ayuntamiento de Cádiz, mediante
-> instancia general dirigida a la Unidad de Transparencia. Si el formulario
-> separa los campos EXPONE y SOLICITA, el cuerpo va en EXPONE y la lista
-> numerada en SOLICITA.
+> El texto se conserva tal y como se presentó. La fecha de vencimiento que
+> menciona —23 de septiembre de 2026— se escribió antes de conocer el día del
+> registro; la que hay que seguir es el 25 de septiembre de 2026, y en todo caso
+> el plazo lo fija la ley, no el escrito.
 >
-> **Guardar el justificante de registro con su número y fecha.** Es lo que
-> arranca el plazo y lo que hace falta para reclamar ante el CTPDA.
-
+> Los campos `[DNI]` y `[DOMICILIO]` se cumplimentaron en el momento de
+> registrar. Se dejan sin rellenar aquí a propósito: este repositorio es público.
 ---
 
 A/A Unidad de Transparencia

@@ -19,21 +19,33 @@ todo lo demás. Tres desenlaces, los tres útiles:
 Van juntos, no uno u otro. El registro obliga a responder; el correo es lo que
 hace que la respuesta sea útil.
 
-## Antes de registrar
+## Estado
 
-- [ ] Completar `[DNI]` y `[DOMICILIO]` en la solicitud
-- [ ] Recalcular la fecha límite: un mes natural desde el registro efectivo
+- [x] Solicitud registrada el **25/08/2026** — ver
+      [`justificantes/2026-08-25-ayuntamiento.md`](justificantes/2026-08-25-ayuntamiento.md)
+- [ ] Confirmar la fecha de entrada en el registro propio del Ayuntamiento (vía SIR)
 - [ ] Confirmar la dirección de contacto de Emasa en emasacadiz.es
-- [ ] Guardar el justificante de registro — número y fecha
+- [ ] Enviar el correo a Emasa
 
 ## Seguimiento
 
 | Hito | Fecha | Estado |
 |---|---|---|
-| Registro de la solicitud | — | pendiente |
+| Registro de la solicitud (AGE → Ayuntamiento) | 25/08/2026 19:29 | hecho |
+| Entrada en el registro del Ayuntamiento | por confirmar | pendiente |
 | Correo a Emasa | — | pendiente |
-| Fin de plazo (art. 20.1 Ley 19/2013) | — | — |
+| Fin de plazo (art. 20.1 Ley 19/2013) | 25/09/2026 (objetivo) | — |
 | Reclamación ante el CTPDA, si procede | — | — |
+
+El plazo no corre desde la presentación en el registro de la AGE, sino desde la
+entrada en el del Ayuntamiento. El detalle, en el justificante.
+
+## Datos personales
+
+Los justificantes y acuses originales llevan documento identificativo, domicilio
+y teléfono. **Este repositorio es público**: los originales van a
+`data/registro/`, excluida de git, y en `justificantes/` sólo se versiona el
+registro redactado.
 
 Si vence el plazo sin resolución, cabe reclamación ante el **Consejo de
 Transparencia y Protección de Datos de Andalucía** (art. 33 de la Ley 1/2014, en
