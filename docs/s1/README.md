@@ -24,8 +24,7 @@ hace que la respuesta sea útil.
 - [x] Solicitud registrada el **25/08/2026** — ver
       [`justificantes/2026-08-25-ayuntamiento.md`](justificantes/2026-08-25-ayuntamiento.md)
 - [ ] Confirmar la fecha de entrada en el registro propio del Ayuntamiento (vía SIR)
-- [ ] Confirmar la dirección de contacto de Emasa en emasacadiz.es
-- [ ] Enviar el correo a Emasa
+- [x] Correo a Emasa enviado el **25/08/2026**, el mismo día que el registro
 
 ## Seguimiento
 
@@ -33,7 +32,7 @@ hace que la respuesta sea útil.
 |---|---|---|
 | Registro de la solicitud (AGE → Ayuntamiento) | 25/08/2026 19:29 | hecho |
 | Entrada en el registro del Ayuntamiento | por confirmar | pendiente |
-| Correo a Emasa | — | pendiente |
+| Correo a Emasa | 25/08/2026 | enviado |
 | Fin de plazo (art. 20.1 Ley 19/2013) | 25/09/2026 (objetivo) | — |
 | Reclamación ante el CTPDA, si procede | — | — |
 

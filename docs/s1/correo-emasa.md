@@ -1,14 +1,15 @@
 # Correo a Emasa — Empresa Municipal de Movilidad
 
-> Va en paralelo a la solicitud registrada en el Ayuntamiento, no en su lugar.
-> El registro asegura el plazo; este correo abre el canal de colaboración, que
-> es lo que de verdad hace que las comunicaciones acaben en actuaciones.
+> **ENVIADO el 25/08/2026**, el mismo día que se registró la solicitud en el
+> Ayuntamiento. Se conserva el texto tal y como salió.
 >
-> **Ojo con la dirección:** Emasa Cádiz es la Empresa Municipal de Movilidad
-> (emasacadiz.es). EMASA con el dominio emasa.es es la empresa municipal de
-> aguas de Málaga — no tiene nada que ver. Confirmar la dirección de contacto
-> en su web antes de enviar.
-
+> Iba en paralelo al registro, no en su lugar: el registro asegura el plazo,
+> este correo abre el canal de colaboración, que es lo que de verdad hace que
+> las comunicaciones acaben en actuaciones.
+>
+> Emasa Cádiz es la Empresa Municipal de Movilidad (emasacadiz.es). EMASA con el
+> dominio emasa.es es la empresa municipal de aguas de Málaga — no tiene nada
+> que ver.
 ---
 
 **Asunto: proyecto vecinal de documentación de estacionamiento en zona verde — cartografía y propuesta de colaboración**
