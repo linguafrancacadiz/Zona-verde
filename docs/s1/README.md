@@ -15,6 +15,7 @@ todo lo demás. Tres desenlaces, los tres útiles:
 |---|---|---|
 | `solicitud-transparencia-ayuntamiento.md` | Registro Electrónico del Ayuntamiento | Asegura el plazo legal |
 | `correo-emasa.md` | Empresa Municipal de Movilidad | Abre el canal de colaboración |
+| `reclamacion-ctpda.md` | Consejo de Transparencia y Protección de Datos de Andalucía | Reclamación contra el silencio del Ayuntamiento (26/10/2026) |
 
 Van juntos, no uno u otro. El registro obliga a responder; el correo es lo que
 hace que la respuesta sea útil.
@@ -23,8 +24,14 @@ hace que la respuesta sea útil.
 
 - [x] Solicitud registrada el **25/08/2026** — ver
       [`justificantes/2026-08-25-ayuntamiento.md`](justificantes/2026-08-25-ayuntamiento.md)
-- [ ] Confirmar la fecha de entrada en el registro propio del Ayuntamiento (vía SIR)
+- [ ] Confirmar la fecha de entrada en el registro propio del Ayuntamiento (vía SIR).
+      Ya no condiciona la reclamación: han pasado dos meses. A 26/10/2026 no ha
+      llegado ningún aviso de cambio de estado del asiento
 - [x] Correo a Emasa enviado el **25/08/2026**, el mismo día que el registro
+- [x] Seguimiento a Emasa el **23/10/2026**; Emasa contesta el **26/10/2026**
+- [x] Reclamación ante el CTPDA presentada el **26/10/2026** — ver
+      [`justificantes/2026-10-26-ctpda.md`](justificantes/2026-10-26-ctpda.md) y
+      [`reclamacion-ctpda.md`](reclamacion-ctpda.md)
 
 ## Seguimiento
 
@@ -33,8 +40,12 @@ hace que la respuesta sea útil.
 | Registro de la solicitud (AGE → Ayuntamiento) | 25/08/2026 19:29 | hecho |
 | Entrada en el registro del Ayuntamiento | por confirmar | pendiente |
 | Correo a Emasa | 25/08/2026 | enviado |
-| Fin de plazo (art. 20.1 Ley 19/2013) | 25/09/2026 (objetivo) | — |
-| Reclamación ante el CTPDA, si procede | — | — |
+| Fin de plazo (art. 20.1 Ley 19/2013) | 25/09/2026 (objetivo) | vencido sin resolución |
+| Seguimiento a Emasa | 23/10/2026 | enviado |
+| Respuesta de Emasa: sólo gestiona el estacionamiento regulado; remite al Ayuntamiento | 26/10/2026 | recibida |
+| Respuesta de Emasa: los controladores formulan propuesta de denuncia y la Policía Local sanciona | 26/10/2026 | recibida |
+| Reclamación ante el CTPDA (desestimación presunta) | 26/10/2026 11:46 | presentada |
+| Resolución del CTPDA (plazo de tres meses, art. 24.4 Ley 19/2013) | — | pendiente |
 
 El plazo no corre desde la presentación en el registro de la AGE, sino desde la
 entrada en el del Ayuntamiento. El detalle, en el justificante.
